@@ -12,4 +12,8 @@ After this was done, they would get the results for this subsambple and exptrapo
 
 Now, with the NLP-Text-Classifier, they are being able to analyse 100% of all the comments coming from the students in under 60 seconds (model accuracy of ~99,67%).
 
+
+![Animação](https://user-images.githubusercontent.com/71237900/124483623-ee63c380-dd80-11eb-9580-0086064a321d.gif)
+
+
 Jonas L. Neri
