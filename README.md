@@ -15,5 +15,7 @@ Now, with the NLP-Text-Classifier, they are being able to analyse 100% of all th
 
 ![Animação](https://user-images.githubusercontent.com/71237900/124483623-ee63c380-dd80-11eb-9580-0086064a321d.gif)
 
+Access this model on Streamlit: https://share.streamlit.io/kbots-dga/ml_classificator/main/app.py
+
 
 Jonas L. Neri
